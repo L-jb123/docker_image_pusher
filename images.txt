@@ -5,3 +5,5 @@ xhofe/alist:latest
 allanpk716/chinesesubfinder
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+elleflorio/svn-server
+garethflowers/svn-server
