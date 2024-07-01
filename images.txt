@@ -7,3 +7,4 @@ allanpk716/chinesesubfinder
 --platform=linux/arm64 xiaoyaliu/alist
 elleflorio/svn-server
 garethflowers/svn-server
+dm8
