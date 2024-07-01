@@ -8,3 +8,4 @@ allanpk716/chinesesubfinder
 elleflorio/svn-server
 garethflowers/svn-server
 dbgate/dbgate
+easysoft/zentao
