@@ -9,3 +9,4 @@ elleflorio/svn-server
 garethflowers/svn-server
 dbgate/dbgate
 easysoft/zentao
+redis
