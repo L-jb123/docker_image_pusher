@@ -10,3 +10,4 @@ garethflowers/svn-server
 dbgate/dbgate
 easysoft/zentao
 redis
+cwq1913/lama-cleaner
