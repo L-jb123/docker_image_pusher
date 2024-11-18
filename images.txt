@@ -6,3 +6,4 @@ allanpk716/chinesesubfinder
 #支持指定架构
 gitea/gitea
 php
+atlassian/jira-software
