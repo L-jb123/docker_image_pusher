@@ -7,3 +7,4 @@ allanpk716/chinesesubfinder
 gitea/gitea
 php
 atlassian/jira-software
+atlassian/confluence-server
