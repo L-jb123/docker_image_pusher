@@ -4,7 +4,4 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 allanpk716/chinesesubfinder
 #支持指定架构
-gitea/gitea
-php
-atlassian/jira-software
-atlassian/confluence-server
+frooode/s-pdf
